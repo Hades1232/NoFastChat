@@ -1,6 +1,8 @@
 # No Fast Chat
 You can only press Enter once every 3 seconds
 
+## How to use
+mollu?
 
 
 ## License
